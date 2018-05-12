@@ -1,0 +1,30 @@
+_repo: '----_24021'
+_version: 0.1.0
+alternative_title:
+- Du Pian Xin Shu
+- 杜骗新书
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhang, Yingyu, active 16th century-17th century
+    aliases:
+    - 張應俞
+    - 张应俞
+    gutenberg_agent_id: '26168'
+    url: http://www.gutenberg.org/2009/agents/26168
+description: ''
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24021'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fraud -- China -- Fiction'
+- !lcc 'PL'
+title: 杜騙新書
+url: http://www.gutenberg.org/ebooks/24021
